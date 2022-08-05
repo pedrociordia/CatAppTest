@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_CLIENT</key>
+	<string>$(API_CLIENT)</string>
+	<key>EMAIL_LOGIN</key>
+	<string>$(EMAIL_LOGIN)</string>
+	<key>PASSWORD_LOGIN</key>
+	<string>$(PASSWORD_LOGIN)</string>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>BlueCat</string>
+		<key>UIImageName</key>
+		<string>CatAppLogo</string>
+	</dict>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDarkContent</string>
+</dict>
+</plist>
